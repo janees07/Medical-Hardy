@@ -994,6 +994,7 @@ label #cancel{
     text-align: center;
     gap:10px;
     padding:5px;
+    height:200px;
 }
 .parent-card-container{
     padding:30px;
@@ -1235,6 +1236,7 @@ label #cancel{
    #submenu{
     gap:10px;
     padding: 10px;
+    height:200px;
    }
    .droplist:hover #submenu{
     visibility:hidden;
